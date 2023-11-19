@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are 
 - https://vocal-rugelach-cc6e9e.netlify.app/#contact
 - https://ephemeral-gumdrop-61ab3e.netlify.app/
-- https://darling-malasada-365124.netlify.app/
+- https://thapa-ecom-store.netlify.app/
 
 - 💬 Ask me about **React, Vite, Gsap**
 
