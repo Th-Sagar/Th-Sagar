@@ -14,6 +14,7 @@
 - Ecommerce - https://thapa-ecom-store.netlify.app/
 - Food Ordering - https://prismatic-toffee-770700.netlify.app/
 - Job Portal - https://loquacious-rabanadas-bc3788.netlify.app/
+- Full Stack - https://fanciful-sprinkles-bc9be7.netlify.app/
 
 - 💬 Ask me about **React, Vite, Gsap**
 
