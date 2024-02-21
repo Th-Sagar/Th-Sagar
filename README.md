@@ -8,13 +8,7 @@
 
 - 🌱 I’m currently learning **Vite, Tailwindcss, AOS, Gsap etc**
 
-- 👨‍💻 All of my projects are 
-- Portfolio - https://vocal-rugelach-cc6e9e.netlify.app/#contact
-- Portfolio - https://ephemeral-gumdrop-61ab3e.netlify.app/
-- Ecommerce - https://thapa-ecom-store.netlify.app/
-- Food Ordering - https://prismatic-toffee-770700.netlify.app/
-- Job Portal - https://loquacious-rabanadas-bc3788.netlify.app/
-- Full Stack - https://fanciful-sprinkles-bc9be7.netlify.app/
+
 
 - 💬 Ask me about **React, Vite, Gsap**
 
