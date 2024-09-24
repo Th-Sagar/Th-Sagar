@@ -23,7 +23,11 @@
 </h6>
 
 <h6>
-  Todo-List: https://todo12-list.netlify.app/
+  Todo-List: https://todo12-list.netlify.app
+</h6>
+
+<h6>
+  Chat: https://websocket-spring-c3ze.onrender.com
 </h6>
 
 </p>
