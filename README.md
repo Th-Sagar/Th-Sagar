@@ -32,7 +32,8 @@ I'm a passionate full-stack developer with a strong enthusiasm for crafting inno
 - **Hostel Booking System:** [View Project](https://extraordinary-twilight-89def2.netlify.app/)  
 - **E-Library:** [View Project](https://e-bookslibrary.netlify.app)  
 - **Todo List App:** [View Project](https://todo12-list.netlify.app)  
-- **Chat Application:** [View Project](https://websocket-spring-c3ze.onrender.com)  
+- **Chat Application:** [View Project](https://websocket-spring-c3ze.onrender.com)
+- **Hospital Management System:** [View Project](https://angular-spring-hms.netlify.app)  
 
 ## Education  
 **BSc. CSIT (2020-2025)** - Trinity International College, Nepal  
