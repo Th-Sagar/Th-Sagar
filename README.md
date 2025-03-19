@@ -1,4 +1,4 @@
-# Hi there, I'm Sagar Thapa  
+# Hi there, I'm [Sagar Thapa](https://the-sagar.netlify.app/)  
 
 ## Full Stack Developer | CSIT Student
 I'm a passionate full-stack developer with a strong enthusiasm for crafting innovative solutions that enhance user experiences and drive business growth. Currently, I'm in my 8th semester of BSc.CSIT at Trinity International College, Nepal.  
@@ -40,5 +40,6 @@ I'm a passionate full-stack developer with a strong enthusiasm for crafting inno
 Key Courses: Data Structures & Algorithms, DBMS, Cryptography, Java  
 
 ## Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/sagar-thapa-6470a0218/)  
+**LinkedIn:** [Click Here](https://www.linkedin.com/in/sagar-thapa-6470a0218/)  
+
 **Email:** sagarthapa98122@gmail.com  
