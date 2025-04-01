@@ -24,6 +24,16 @@
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white">
 </p>
 
+### 🔤 Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
+</p>
+
 ### ⚙️ Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
@@ -60,6 +70,3 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
-
----
-
