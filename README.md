@@ -1,46 +1,65 @@
-# Hi there, I'm [Sagar Thapa](https://the-sagar.netlify.app/)  
+<h1 align="center">Hi, I'm <a href="https://the-sagar.netlify.app/" target="_blank">Sagar Thapa</a> 🚀</h1>  
+<h3 align="center">Full Stack Developer | CSIT Student</h3>  
 
-## Full Stack Developer | CSIT Student
-I'm a passionate full-stack developer with a strong enthusiasm for crafting innovative solutions that enhance user experiences and drive business growth. Currently, I'm in my 8th semester of BSc.CSIT at Trinity International College, Nepal.  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+</p>
 
-## Skills & Technologies  
-**Frontend:** React, Redux, TailwindCSS, Formik, Yup, React Router DOM  
-**Backend:** Node.js, Express.js, Mongoose, bcrypt, JWT, Zod, Spring Boot  
-**Tools & Libraries:** Git, Vite, Axios, Cloudinary  
-**Languages:** JavaScript, TypeScript, Java, C, C++, C#  
+---
 
-## Experience  
-- Developed secure authentication systems with JWT & bcrypt  
-- Designed responsive UIs using TailwindCSS  
-- Managed data handling with Mongoose & MongoDB  
-- Implemented React Query for efficient API handling  
-- Integrated Cloudinary for image storage  
+## 🛠️ Tech Stack  
 
-## Notable Projects  
+### 🌐 Frontend  
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+</p>
 
-### File Management System (Spring Boot + MongoDB)  
-- Developed RESTful APIs for file management  
-- Implemented JWT-based authentication & bcrypt password hashing  
-- Integrated Cloudinary for secure image uploads  
+### 🔧 Backend  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white">
+</p>
 
-### Todo List Application  
-- Built a full-fledged task management system  
-- Utilized Spring Boot & MongoDB for backend services  
-- Created an interactive React-based UI  
+### ⚙️ Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white">
+  <img src="https://img.shields.io/badge/-Cloudinary-FEBA00?style=flat&logo=cloudinary&logoColor=white">
+</p>
 
-## Live Projects  
-- **Hostel Booking System:** [View Project](https://extraordinary-twilight-89def2.netlify.app/)  
-- **E-Library:** [View Project](https://e-bookslibrary.netlify.app)  
-- **Todo List App:** [View Project](https://todo12-list.netlify.app)  
-- **Chat Application:** [View Project](https://websocket-spring-c3ze.onrender.com)
-- **Hospital Management System:** [View Project](https://angular-spring-hms.netlify.app)
-- **Bank Management System:** [View Project](https://bs-angular.netlify.app/)  
+---
 
-## Education  
-**BSc. CSIT (2020-2025)** - Trinity International College, Nepal  
-Key Courses: Data Structures & Algorithms, DBMS, Cryptography, Java  
+## 🚀 Projects  
+<table>
+  <tr>
+    <td><b>🏨 Hostel Booking</b></td>
+    <td><a href="https://extraordinary-twilight-89def2.netlify.app/">🔗 Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>📚 E-Library</b></td>
+    <td><a href="https://e-bookslibrary.netlify.app">🔗 Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>✅ Todo App</b></td>
+    <td><a href="https://todo12-list.netlify.app">🔗 Live Demo</a></td>
+  </tr>
+</table>
 
-## Connect with Me  
-**LinkedIn:** [Click Here](https://www.linkedin.com/in/sagar-thapa-6470a0218/)  
+---
 
-**Email:** sagarthapa98122@gmail.com  
+## 📫 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sagar-thapa-6470a0218/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:sagarthapa98122@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
