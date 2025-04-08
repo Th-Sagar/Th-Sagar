@@ -1,15 +1,13 @@
-<h1 align="center">Hi, I'm <a href="https://the-sagar.netlify.app/" target="_blank">Sagar Thapa</a> 🚀</h1>  
-<h3 align="center">Full Stack Developer | CSIT Student</h3>  
+<h1 align="center">Hi, I'm <a href="https://the-sagar.netlify.app/" target="_blank">Sagar Thapa</a></h1>  
+<h3 align="center">Full Stack Developer</h3>  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
-</p>
+
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
-### 🌐 Frontend  
+### Frontend  
 <p align="left">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
@@ -18,50 +16,32 @@
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
 </p>
 
-### 🔧 Backend  
+### Backend  
 <p align="left">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white">
 </p>
-
-### 🔤 Programming Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
-</p>
-
-### ⚙️ Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white">
-  <img src="https://img.shields.io/badge/-Cloudinary-FEBA00?style=flat&logo=cloudinary&logoColor=white">
-</p>
-
 ---
 
-## 🚀 Projects  
+## Projects  
 <table>
   <tr>
-    <td><b>🏨 Hostel Booking</b></td>
+    <td><b> Hostel Booking</b></td>
     <td><a href="https://extraordinary-twilight-89def2.netlify.app/">🔗 Live Demo</a></td>
   </tr>
   <tr>
-    <td><b>📚 E-Library</b></td>
+    <td><b> E-Library</b></td>
     <td><a href="https://e-bookslibrary.netlify.app">🔗 Live Demo</a></td>
   </tr>
   <tr>
-    <td><b>✅ Todo App</b></td>
+    <td><b> Todo App</b></td>
     <td><a href="https://todo12-list.netlify.app">🔗 Live Demo</a></td>
   </tr>
 </table>
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/sagar-thapa-6470a0218/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
