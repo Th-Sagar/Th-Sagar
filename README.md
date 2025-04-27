@@ -54,8 +54,4 @@
 
 
 
-###
 
-<img src="https://raw.githubusercontent.com/Shishirthapaa/Shishirthapaa/output/snake.svg" alt="Snake animation" />
-
-###
