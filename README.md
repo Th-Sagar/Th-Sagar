@@ -50,3 +50,12 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
+
+
+
+
+###
+
+<img src="https://raw.githubusercontent.com/Shishirthapaa/Shishirthapaa/output/snake.svg" alt="Snake animation" />
+
+###
